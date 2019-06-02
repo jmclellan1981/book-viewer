@@ -1,0 +1,8 @@
+.user-input {
+    display: flex;
+    align-items: center;
+}
+
+.search-type-options {
+    list-style: none;
+}

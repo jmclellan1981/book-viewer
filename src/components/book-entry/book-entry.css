@@ -1,0 +1,7 @@
+.book-entry {
+    display: flex;
+}
+
+.book-details-list {
+    list-style: none;
+}
